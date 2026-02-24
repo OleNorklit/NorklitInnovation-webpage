@@ -1,3 +1,8 @@
+I have used the template from HTML5 UP to create my simple web pages.
+I have chaged the colours and a few other minor things, and added the content obviousluy.
+The original readme me is below.
+Ole Nørklit
+
 Hyperspace by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
@@ -30,4 +35,5 @@ Credits:
 	Other:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
+
 		Responsive Tools (github.com/ajlkn/responsive-tools)
